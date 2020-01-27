@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/toni9570/Project01/_apis/build/status/tonirey.ContosoAir?branchName=master)](https://dev.azure.com/toni9570/Project01/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
